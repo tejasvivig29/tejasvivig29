@@ -119,10 +119,12 @@ h3 {
     font-size: 6rem; }
   h1.sm-heading,
   h2.sm-heading,
-  h3.sm-heading {
+  h3.sm-heading 
+  ul.sm-heading{
     margin-bottom: 2rem;
     padding: 0.2rem 1rem;
-    background: rgba(73, 73, 73, 0.5); }
+    background: rgba(73, 73, 73, 0.5); 
+    color: black !important; }
 
 a {
   color: #fff;
