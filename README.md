@@ -1,4 +1,4 @@
-:slightly_smiling_face: tejasvivig29 / README.md
+:slightly_smiling_face: 
 
 Graduate Student at Dalhousie University, Halifax. A tech enthusiast with a passion to learn new and emerging technologies. Actively seeking Co-op opportunities for Winter - 2021 term. I specialize in web and cloud technologies and carry along an experience of 5 years spanning across two different roles, DevOps Engineer and Full Stack Developer.
 
