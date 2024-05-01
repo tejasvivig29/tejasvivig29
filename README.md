@@ -1,6 +1,6 @@
 :slightly_smiling_face: 
 
-Senior Software Engineer at Tech Mahindra. A tech enthusiast with a passion to learn new and emerging technologies. Actively seeking Co-op opportunities for Winter - 2021 term. I specialize in web and cloud technologies and carry along an experience of 5 years spanning two different roles, DevOps Engineer and Full Stack Developer.
+Senior Software Engineer at OrderGrid Inc. A tech enthusiast with a passion to learn new and emerging technologies. Actively seeking Co-op opportunities for Winter - 2021 term. I specialize in web and cloud technologies and carry along an experience of 5 years spanning two different roles, DevOps Engineer and Full Stack Developer.
 
 * Skilled DevOps Engineer with hands-on experience in supporting, automating, and optimizing mission-critical deployments in AWS, leveraging configuration management, CI/CD, and DevOps processes.
 
